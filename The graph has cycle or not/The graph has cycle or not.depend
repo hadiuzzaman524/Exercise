@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567143352 source:c:\users\asus\desktop\code\the graph has cycle or not\main.cpp
+	<iostream>
+	<vector>
+

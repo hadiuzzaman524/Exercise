@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567162964 source:c:\users\asus\desktop\code\find the common adjacence\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+

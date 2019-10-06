@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567527540 source:c:\users\asus\desktop\code\longest increasing subsequence with maximum sum\main.cpp
+	<iostream>
+	<vector>
+
